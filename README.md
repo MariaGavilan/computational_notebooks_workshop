@@ -1,6 +1,6 @@
 # Workshop: Computational Notebooks Using MATLAB with Python
 
-Welcome to the workshop! We've got everything fired up and running for you to explore MATLAB and Python exercises using Jupyter notebooks.
+Welcome to the workshop! We've got everything fired up and running for you to explore MATLAB and Python exercises using Jupyter notebooks and Live Scripts.
 
 Are you new to MATLAB and Python and want to get more context? Check this page: https://www.mathworks.com/products/matlab/matlab-and-python.html
 
