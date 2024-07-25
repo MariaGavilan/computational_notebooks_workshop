@@ -121,6 +121,7 @@ RUN python -m pip install opencv-python
 RUN python -m pip install astropy
 RUN python -m pip install sunpy
 RUN python -m pip install parfive
+RUN python -m pip install scikit-learn
 
 # Make JupyterLab the default environment
 ENV JUPYTER_ENABLE_LAB="yes"
