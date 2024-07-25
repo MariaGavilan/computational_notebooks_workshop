@@ -118,7 +118,9 @@ RUN python -m pip install jupyter-matlab-proxy
 # Install couple of additional packages
 RUN python -m pip install numpy
 RUN python -m pip install opencv-python
+RUN python -m pip install astropy
 RUN python -m pip install sunpy
+RUN python -m pip install parfive
 
 # Make JupyterLab the default environment
 ENV JUPYTER_ENABLE_LAB="yes"
