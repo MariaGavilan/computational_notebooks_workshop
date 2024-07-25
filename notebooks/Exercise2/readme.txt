@@ -1,5 +1,3 @@
-In this exercise we will use a Jupyter notebook with the MATLAB kernel and we will learn how you can write MATLAB code directly in the Jupyter notebook.
+In this exercise we will use a MATLAB executable notebook (Live Script) to explore how to call Python from MATLAB.  
 
-During the workshop, when prompted, use the following URL to clone the GIT repository: 
-
-https://github.com/mathworks/Open-Microscopy-Data-MATLAB
+Follow the instructions given in the workshop. 
