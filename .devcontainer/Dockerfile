@@ -119,7 +119,7 @@ RUN python -m pip install jupyter-matlab-proxy
 RUN python -m pip install numpy
 RUN python -m pip install opencv-python
 RUN python -m pip install astropy
-RUN python -m pip install sunpy
+RUN python -m pip install sunpy[all]
 RUN python -m pip install parfive
 RUN python -m pip install scikit-learn
 
